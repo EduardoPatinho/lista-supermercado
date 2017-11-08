@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     EditText txt_produto;
     ProdutoAdapter adapter;
 
+    String teste;
 
     View.OnClickListener click_ck = new View.OnClickListener() {
 
